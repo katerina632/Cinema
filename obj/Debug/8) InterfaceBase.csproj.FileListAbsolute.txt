@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Класна робота\8) InterfaceBase\bin\Debug\8) InterfaceBase.exe.config
+F:\ITStep\2 курс\C#\Класна робота\8) InterfaceBase\bin\Debug\8) InterfaceBase.exe
+F:\ITStep\2 курс\C#\Класна робота\8) InterfaceBase\bin\Debug\8) InterfaceBase.pdb
+F:\ITStep\2 курс\C#\Класна робота\8) InterfaceBase\obj\Debug\8) InterfaceBase.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Класна робота\8) InterfaceBase\obj\Debug\8) InterfaceBase.exe
+F:\ITStep\2 курс\C#\Класна робота\8) InterfaceBase\obj\Debug\8) InterfaceBase.pdb
